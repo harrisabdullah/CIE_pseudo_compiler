@@ -1,0 +1,4 @@
+(executable
+ (public_name CIE_pseudo_compiler)
+ (name main)
+ (libraries CIE_pseudo_compiler))
